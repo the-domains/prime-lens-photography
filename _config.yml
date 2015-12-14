@@ -1,7 +1,7 @@
 name: Prime Lens Photography
 favicon: null
-layout_spectrum: 0.7367986964527518
-typography_spectrum: 0.3724197051487863
+layout_spectrum: 1
+typography_spectrum: 0.17229
 title: Prime Lens Photography
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#dab996'
+    - '#000000'
+    - '#60acc8'
+    - '#a06156'
   brandStrength: 0.1803759327158332
   lightness: 0.08060538838617504
   saturation: 0.7978820886928588
